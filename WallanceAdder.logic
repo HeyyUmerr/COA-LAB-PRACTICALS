@@ -1,0 +1,124 @@
+��sr9org.eclipse.gef.examples.logicdesigner.model.LogicDiagram	ZgridEnabledZrulersVisibilityZsnapToGeometryDzoom[bitst[ILchildrentLjava/util/List;LconnectionRoutertLjava/lang/Integer;L	leftRulert9Lorg/eclipse/gef/examples/logicdesigner/model/LogicRuler;LtopRulerq~xr9org.eclipse.gef.examples.logicdesigner.model.LogicSubpartZVisibilityValueIninInoutZ	resizableZ 
+ selectable[TERMINALS_INt[Ljava/lang/String;[ TERMINALS_OUTq~LhorizontalGuidet9Lorg/eclipse/gef/examples/logicdesigner/model/LogicGuide;LidtLjava/lang/String;LinputstLjava/util/Hashtable;Llocationt#Lorg/eclipse/draw2d/geometry/Point;Lnameq~LoutputstLjava/util/Vector;L 
+ ​pin_configq~Lsizet'Lorg/eclipse/draw2d/geometry/Dimension;[ 
+ stateTablet[[ILstringq~LtempIdq~LtempNameq~L verticalGuideq~xr9org.eclipse.gef.examples.logicdesigner.model.LogicElementZVisibilityValueZ 
+ selectableL	listenerst"Ljava/beans/PropertyChangeSupport;xpsr java.beans.PropertyChangeSupportX��dWH`�I*propertyChangeSupportSerializedDataVersionLchildrenq~	LsourcetLjava/lang/Object;xppq~pxpppt0srjava.util.Hashtable�%!J�F 
+ loadFactorI	thresholdxp?@wxsr!org.eclipse.draw2d.geometry.PointIxIyxpt Logic Diagramsrjava.util.Vectorٗ}[�;�IcapacityIncrementIelementCount[elementDatat[Ljava/lang/Object;xpur[Ljava.lang.Object;��X�s)lxpppppxpsr%org.eclipse.draw2d.geometry.DimensionIheightIwidthxpddppppp?�psrjava.util.ArrayListx����a�Isizexpwsr6org.eclipse.gef.examples.logicdesigner.model.Circuit24L 
+ pin_configq~xq~sq~pq~$pxpppt1sq~?@w# tEsr1org.eclipse.gef.examples.logicdesigner.model.WireZVisibilityValueIvalueL 
+ bendpointsq~Lsourcet;Lorg/eclipse/gef/examples/logicdesigner/model/LogicSubpart;LsourceTerminalq~Ltargetq~*LtargetTerminalq~xq~sq~pq~+pxsq~!wxsr6org.eclipse.gef.examples.logicdesigner.model.DipSwitchIbitZstartedxq~sq~pq~/pxpppt0sq~?@wxsq~nat Bit Switch #0sq~uq~q~+pppxpsq~ppptBit Switch ##11pt1q~$q~(tXsq~)sq~pq~;pxsq~!wxsr4org.eclipse.gef.examples.logicdesigner.model.CircuitL 
+ pin_configq~xq~sq~pq~?pxpppt14sq~?@wtEsq~)sq~pq~Dpxsq~!wxsr3org.eclipse.gef.examples.logicdesigner.model.OrGateIresultxr1org.eclipse.gef.examples.logicdesigner.model.Gatexr9org.eclipse.gef.examples.logicdesigner.model.SimpleOutputxq~sq~pq~Jpxpppt24sq~?@wtBsq~)sq~pq~Opxsq~!wxsq~>sq~pq~Rpxpppt13sq~?@wq~Csq~)sq~pq~Vpxsq~!wxsr4org.eclipse.gef.examples.logicdesigner.model.AndGateIresultxq~Hsq~pq~Zpxpppt22sq~?@wq~Nsq~)sq~pq~^pxsq~!wxq~Rt4q~Zq~NtAsq~)sq~pq~cpxsq~!wxq~Rt1q~Zq~bxsq~tAND Gate #22sq~uq~q~Vpppxpsq~ 
+ ​ 
+ pppt AND Gate ##51ptOUTq~Rq~CtDsq~)sq~pq~opxsq~!wxq~?q~aq~Rq~ntHsq~)sq~pq~spxsq~!wxsr4org.eclipse.gef.examples.logicdesigner.model.XORGateIresultxq~Hsq~pq~wpxpppt23sq~?@wq~Nsq~)sq~pq~{pxsq~!wxq~Rq~aq~wq~Nq~bsq~)sq~pq~pxsq!wxq~Rq~fq~wq~bxsq~tXOR Gate #23sq~uq~q~spppxpq~kpppt XOR Gate ##52pq~mq~Rq~rq~bsq~)sq~pq~�pxsq~!wxsq~>sq~pq~�pxpppt12sq~?@wq~Csq~)sq~pq~�pxsq~!wxsq~Ysq~pq~�pxpppt20sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~�q~fq~�q~bxsq~tAND Gate #20sq~uq~q~�pppxpsq~ 
+ ​ 
+ pppt AND Gate ##40pq~mq~�q~Cq~nsq~)sq~pq~�pxsq~!wxq~?t3q~�q~nq~rsq~)sq~pq~�pxsq~!wxsq~vsq~pq~�pxpppt21sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~�q~fq~�q~bxsq~tXOR Gate #21sq~uq~q~�pppxpq~�pppt XOR Gate ##41pq~mq~�q~rq~bsq~)sq~pq~�pxsq~!wxq~?q~fq~�q~bxsq~tCircuit #12sq~uq~q~�q~�q~�q~�q~�sq~)sq~pq~�pxsq~!wxq~�t5q~Jq~bppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~�q~�sr7org.eclipse.gef.examples.logicdesigner.model.LogicLabelLcolort Lorg/eclipse/swt/graphics/Color;Ltextq~xq~sq~pq~�pxpppt15sq~?@wxsq~tLabel #15 Text=nullsq~uq~ppppxpsq~(-pppppptH/Axpsr7org.eclipse.gef.examples.logicdesigner.model.LogicRulerZ 
+ horizontalIunitLguidesq~L	listenersq~xpsq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxt�Half Adder: 
+ ​Upper Terminals:Inputs 
+ ​Bottom Terminals:Outputs 
+ ​Bottom Left Corner: Circle Represents pin-1 
+ ​Pin Numbering:Anticlockwise 
+ ​I/P: 5,8 
+ O/P: sum : 4, carry : 1t8q~Rq~bxq~�tCircuit #13sq~uq~q~cq~^q~q{q~Osq~)sq~pq~�pxsq~!wxq~Rq~�q~?q~rppxpq~�ppppp?�psq~!wq~wq~Zsq~�sq~pq~�pxpppt16sq~?@wxsq~tLabel #16 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~Jq~Nq~bq~�xsq~tOR Gate #24sq~uq~q~Dpppxpq~�ppptOR Gate ##53pq~mq~?q~Cq~nsq~)sq~pq~�pxsq~!wxq~$t12q~?q~ntCsq~)sq~pq~�pxsq~!wxq~$q~�q~?q~�q~rq~�q~bsq~)sq~pq~�pxsq~!wxq~$q~aq~?q~bxsq~tCircuit #14sq~uq~q~�q~�q~oq~;sq~)sq~pq~pxsq~!wxq~?q~�sq~>sq~pq~pxpppt17sq~?@wq~Csq~)sq~pq~	pxsq~!wxsq~Gsq~pq~pxpppt29sq~?@wq~Nsq~)sq~pq~pxsq~!wxsq~>sq~pq~pxpppt16sq~?@wq~Csq~)sq~pq~pxsq~!wxsq~Ysq~pq~pxpppt27sq~?@wq~Nsq~)sq~pq~pxsq~!wxq~q~aq~q~Nq~bsq~)sq~pq~!pxsq~!wxq~q~fq~q~bxsq~tAND Gate #27sq~uq~q~pppxpsq~ 
+ ​ 
+ pppt AND Gate ##47pq~mq~q~Cq~nsq~)sq~pq~*pxsq~!wxq~q~aq~q~nq~rsq~)sq~pq~-pxsq~!wxsq~vsq~pq~0pxpppt28sq~?@wq~Nsq~)sq~pq~4pxsq~!wxq~q~aq~0q~Nq~bsq~)sq~pq~7pxsq~!wxq~q~fq~0q~bxsq~tXOR Gate #28sq~uq~q~-pppxpq~(pppt XOR Gate ##48pq~mq~q~rq~bsq~)sq~pq~?pxsq~!wxsq~>sq~pq~Bpxpppt15sq~?@wq~Csq~)sq~pq~Fpxsq~!wxsq~Ysq~pq~Ipxpppt25sq~?@wq~Nsq~)sq~pq~Mpxsq~!wxq~Bq~aq~Iq~Nq~bsq~)sq~pq~Ppxsq~!wxq~Bq~fq~Iq~bxsq~tAND Gate #25sq~uq~q~Fpppxpsq~ 
+ ​ 
+ pppt AND Gate ##33pq~mq~Bq~Cq~nsq~)sq~pq~Ypxsq~!wxq~q~�q~Bq~nq~rsq~)sq~pq~\pxsq~!wxsq~vsq~pq~_pxpppt26sq~?@wq~Nsq~)sq~pq~cpxsq~!wxq~Bq~aq~_q~Nq~bsq~)sq~pq~fpxsq~!wxq~Bq~fq~_q~bxsq~tXOR Gate #26sq~uq~q~\pppxpq~Wpppt XOR Gate ##34pq~mq~Bq~rq~bsq~)sq~pq~npxsq~!wxq~q~fq~Bq~bxsq~tCircuit #15sq~uq~q~Pq~Mq~fq~cq~?sq~)sq~pq~upxsq~!wxq~Bq~�q~q~bppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~_q~Isq~�sq~pq~zpxpppt18sq~?@wxsq~tLabel #18 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~q~bxq~qtCircuit #16sq~uq~q~!q~q~7q~4q~sq~)sq~pq~�pxsq~!wxq~q~�q~q~rppxpq~xppppp?�psq~!wq~0q~sq~�sq~pq~�pxpppt19sq~?@wxsq~tLabel #19 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~q~Nq~bq~uxsq~tOR Gate #29sq~uq~q~	pppxpq~xppptOR Gate ##49pq~mq~q~Cq~nsq~)sq~pq~�pxsq~!wxq~$t11q~q~nq~�sq~)sq~pq~�pxsq~!wxq~$t7q~q~�q~rq~�q~bq~xq~�tCircuit #17sq~uq~q~nq~Yq~*sq~)sq~pq~�pxsq~!wxq~q~�q~$tWsq~)sq~pq~�pxsq~!wxq~q~�sq~>sq~pq~�pxpppt20sq~?@wq~Csq~)sq~pq~�pxsq~!wxsq~Gsq~pq~�pxpppt34sq~?@wq~Nsq~)sq~pq~�pxsq~!wxsq~>sq~pq~�pxpppt19sq~?@wq~Csq~)sq~pq~�pxsq~!wxsq~Ysq~pq~�pxpppt32sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~�q~fq~�q~bxsq~tAND Gate #32sq~uq~q~�pppxpsq~ 
+ ​ 
+ pppt AND Gate ##45pq~mq~�q~Cq~nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~nq~rsq~)sq~pq~�pxsq~!wxsq~vsq~pq~�pxpppt33sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~�q~fq~�q~bxsq~tXOR Gate #33sq~uq~q~�pppxpq~�pppt XOR Gate ##46pq~mq~�q~rq~bsq~)sq~pq~�pxsq~!wxsq~>sq~pq~�pxpppt18sq~?@wq~Csq~)sq~pq~�pxsq~!wxsq~Ysq~pq~�pxpppt30sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~pxsq~!wxq~�q~fq~�q~bxsq~tAND Gate #30sq~uq~q~�pppxpsq~ 
+ ​ 
+ pppt AND Gate ##35pq~mq~�q~Cq~nsq~)sq~pq~ 
+ pxsq~!wxq~�q~�q~�q~nq~rsq~)sq~pq~ pxsq~!wxsq~vsq~pq~pxpppt31sq~?@wq~Nsq~)sq~pq~pxsq~!wxq~�q~aq~q~Nq~bsq~)sq~pq~pxsq~!wxq~�q~fq~q~bxsq~tXOR Gate #31sq~uq~q~ pppxpq~pppt XOR Gate ##36pq~mq~�q~rq~bsq~)sq~pq~pxsq~!wxq~�q~fq~�q~bxsq~tCircuit #18sq~uq~q~q~�q~q~q~�sq~)sq~pq~&pxsq~!wxq~�q~�q~�q~bppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~q~�sq~�sq~pq~+pxpppt21sq~?@wxsq~tLabel #21 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~4pxsq~�sq~!wxsq~pq~7pxq~�q~�q~�q~bxq~"tCircuit #19sq~uq~q~�q~�q~�q~�q~�sq~)sq~pq~=pxsq~!wxq~�q~�q~�q~rppxpq~)ppppp?�psq~!wq~�q~�sq~�sq~pq~Apxpppt22sq~?@wxsq~tLabel #22 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~Jpxsq~�sq~!wxsq~pq~Mpxq~�q~�q~�q~Nq~bq~&xsq~tOR Gate #34sq~uq~q~�pppxpq~)ppptOR Gate ##50pq~mq~�q~Cq~nsq~)sq~pq~Upxsq~!wxq~$t10q~�q~nq~�sq~)sq~pq~Ypxsq~!wxq~$t6q~�q~�q~rq~=q~bq~�xq~�tCircuit #20sq~uq~q~q~ 
+ q~�sq~)sq~pq~`pxsq~!wxq~�q~�q~$tVsq~)sq~pq~dpxsq~!wxq~�q~�sq~>sq~pq~gpxpppt23sq~?@wq~Csq~)sq~pq~kpxsq~!wxsq~Gsq~pq~npxpppt39sq~?@wq~Nsq~)sq~pq~rpxsq~!wxsq~>sq~pq~upxpppt22sq~?@wq~Csq~)sq~pq~ypxsq~!wxsq~Ysq~pq~|pxpppt37sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~uq~aq~|q~Nq~bsq~)sq~pq~�pxsq~!wxq~uq~fq~|q~bxsq~tAND Gate #37sq~uq~q~ypppxpsq~ 
+ ​ 
+ pppt AND Gate ##43pq~mq~uq~Cq~nsq~)sq~pq~�pxsq~!wxq~gq~aq~uq~nq~rsq~)sq~pq~�pxsq~!wxsq~vsq~pq~�pxpppt38sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~uq~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~uq~fq~�q~bxsq~tXOR Gate #38sq~uq~q~�pppxpq~�pppt XOR Gate ##44pq~mq~uq~rq~bsq~)sq~pq~�pxsq~!wxsq~>sq~pq~�pxpppt21sq~?@wq~Csq~)sq~pq~�pxsq~!wxsq~Ysq~pq~�pxpppt35sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~�q~fq~�q~bxsq~tAND Gate #35sq~uq~q~�pppxpsq~ 
+ ​ 
+ pppt AND Gate ##29pq~mq~�q~Cq~nsq~)sq~pq~�pxsq~!wxq~gq~�q~�q~nq~rsq~)sq~pq~�pxsq~!wxsq~vsq~pq~�pxpppt36sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~�q~fq~�q~bxsq~tXOR Gate #36sq~uq~q~�pppxpq~�pppt XOR Gate ##30pq~mq~�q~rq~bsq~)sq~pq~�pxsq~!wxq~gq~fq~�q~bxsq~tCircuit #21sq~uq~q~�q~�q~�q~�q~�sq~)sq~pq~�pxsq~!wxq~�q~�q~nq~bppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~�q~�sq~�sq~pq~�pxpppt24sq~?@wxsq~tLabel #24 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~uq~bxq~�tCircuit #22sq~uq~q~�q~�q~�q~�q~rsq~)sq~pq~�pxsq~!wxq~uq~�q~gq~rppxpq~�ppppp?�psq~!wq~�q~|sq~�sq~pq~�pxpppt25sq~?@wxsq~tLabel #25 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~nq~Nq~bq~�xsq~tOR Gate #39sq~uq~q~kpppxpq~�ppptOR Gate ##42pq~mq~gq~Cq~nsq~)sq~pq~pxsq~!wxq~$t9q~gq~nq~�sq~)sq~pq~ 
+ pxsq~!wxq~$q~�q~gq~�q~rq~�q~bq~dxq~�tCircuit #23sq~uq~q~�q~�q~�sq~)sq~pq~pxsq~!wxq~gq~�q~$tUsq~)sq~pq~pxsq~!wxq~gq~�q~$tTpppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~�q~uq~nsq~�sq~pq~pxpppt23sq~?@wxsq~tLabel #23 Text=nullsq~uq~ppppxpsq~(-pppppptF/Axpsq~�sq~!wxsq~pq~$pxsq~�sq~!wxsq~pq~'pxt�Full-Adder(Using Two Half-Adders): 
+ ​Upper Terminals:Inputs 
+ ​Bottom Terminals:Outputs 
+ ​Bottom Left Corner: Circle Represents pin-1 
+ ​Pin Numbering:Anticlockwise 
+ ​I/P: 5,6,8 
+ O/P: sum : 4, carry : 1q~bpppxpq~ppppp?�psq~!wq~�q~�q~�sq~�sq~pq~,pxpppt20sq~?@wxsq~tLabel #20 Text=nullsq~uq~ppppxpsq~(-ppppppq~#xpsq~�sq~!wxsq~pq~5pxsq~�sq~!wxsq~pq~8pxq~*q~bpppxpq~ppppp?�psq~!wq~Bq~q~sq~�sq~pq~<pxpppt17sq~?@wxsq~tLabel #17 Text=nullsq~uq~ppppxpsq~(-ppppppq~#xpsq~�sq~!wxsq~pq~Epxsq~�sq~!wxsq~pq~Hpxq~*q~bpppxpq~ppppp?�psq~!wq~�q~Rq~Jsq~�sq~pq~Lpxpppt14sq~?@wxsq~tLabel #14 Text=nullsq~uq~ppppxpsq~(-ppppppq~#xpsq~�sq~!wxsq~pq~Upxsq~�sq~!wxsq~pq~Xpxq~*q~�q~$q~:q~�q~�q~cq~`q~q~q~q~tLsq~)sq~pq~\pxsq~!wxsq~>sq~pq~_pxpppt31sq~?@wq~Csq~)sq~pq~cpxsq~!wxsq~Gsq~pq~fpxpppt54sq~?@wq~Nsq~)sq~pq~jpxsq~!wxsq~>sq~pq~mpxpppt30sq~?@wq~Csq~)sq~pq~qpxsq~!wxsq~Ysq~pq~tpxpppt52sq~?@wq~Nsq~)sq~pq~xpxsq~!wxq~mq~aq~tq~Nq~bsq~)sq~pq~{pxsq~!wxq~mq~fq~tq~bxsq~tAND Gate #52sq~uq~q~qpppxpsq~ 
+ ​ 
+ pppt AND Gate ##21pq~mq~mq~Cq~nsq~)sq~pq~�pxsq~!wxq~_q~aq~mq~nq~rsq~)sq~pq~�pxsq~!wxsq~vsq~pq~�pxpppt53sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~mq~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~mq~fq~�q~bxsq~tXOR Gate #53sq~uq~q~�pppxpq~�pppt XOR Gate ##22pq~mq~mq~rq~bsq~)sq~pq~�pxsq~!wxsq~>sq~pq~�pxpppt29sq~?@wq~Csq~)sq~pq~�pxsq~!wxsq~Ysq~pq~�pxpppt50sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~�q~fq~�q~bxsq~tAND Gate #50sq~uq~q~�pppxpsq~ 
+ ​ 
+ pppt AND Gate ##23pq~mq~�q~Cq~nsq~)sq~pq~�pxsq~!wxq~_q~�q~�q~nq~rsq~)sq~pq~�pxsq~!wxsq~vsq~pq~�pxpppt51sq~?@wq~Nsq~)sq~pq~�pxsq~!wxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~!wxq~�q~fq~�q~bxsq~tXOR Gate #51sq~uq~q~�pppxpq~�pppt XOR Gate ##24pq~mq~�q~rq~bsq~)sq~pq~�pxsq~!wxq~_q~fq~�q~bxsq~tCircuit #29sq~uq~q~�q~�q~�q~�q~�sq~)sq~pq~�pxsq~!wxq~�q~�q~fq~bppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~�q~�sq~�sq~pq~�pxpppt32sq~?@wxsq~tLabel #32 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~mq~bxq~�tCircuit #30sq~uq~q~{q~xq~�q~�q~jsq~)sq~pq~�pxsq~!wxq~mq~�q~_q~rppxpq~�ppppp?�psq~!wq~�q~tsq~�sq~pq~�pxpppt33sq~?@wxsq~tLabel #33 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~fq~Nq~bq~�xsq~tOR Gate #54sq~uq~q~cpppxpq~�ppptOR Gate ##38pq~mq~_q~Cq~nsq~)sq~pq~�pxsq~!wxsq~.sq~pq~pxpppt1sq~?@wxsq~P.t Bit Switch #1sq~uq~q~�pppxpsq~ppptBit Switch ##5pq~fq~_q~nq~�sq~)sq~pq~pxsq~!wxsq~.sq~pq~pxpppt0sq~?@wxsq~,.t Bit Switch #0sq~uq~q~pppxpsq~ppptBit Switch ##12pq~fq~_q~�q~rq~�q~bsq~)sq~pq~pxsq~!wxsq~.sq~pq~pxpppt2sq~?@wxsq~�"t Bit Switch #2sq~uq~q~pppxpsq~ppptBit Switch ##6pq~fq~_q~bxsq~��tCircuit #31sq~uq~q~�q~�q~�q~\sq~)sq~pq~)pxsq~!wxq~_t8sr0org.eclipse.gef.examples.logicdesigner.model.LEDxq~sq~pq~.pxpppt0sq~?@wtDsq~)sq~pq~3pxsq~!wxq~$t21q~.q~2tCsq~)sq~pq~8pxsq~!wxq~$t22q~.q~7tBsq~)sq~pq~=pxsq~!wxq~$t23q~.q~<tAq~)xsq~�.tLED #0 sq~uq~ppppxpsq~/=ppptLED ##39pq~Apppxpsq~-2ppppp?�psq~!wq~�q~mq~fsq~�sq~pq~Jpxpppt31sq~?@wxsq~tLabel #31 Text=nullsq~uq~ppppxpsq~(-ppppppq~#xpsq~�sq~!wxsq~pq~Spxsq~�sq~!wxsq~pq~Vpxq~*t5q~$q~[tKsq~)sq~pq~[pxsq~!wxsq~>sq~pq~^pxpppt32sq~?@wq~Csq~)sq~pq~bpxsq~uq~ 
+ ppppppppppxsq~Gsq~pq~fpxpppt59sq~?@wq~Nsq~)sq~pq~jpxsq~uq~ 
+ ppppppppppxsq~>sq~pq~npxpppt34sq~?@wq~Csq~)sq~pq~rpxsq~uq~ 
+ ppppppppppxsq~Ysq~pq~vpxpppt58sq~?@wq~Nsq~)sq~pq~zpxsq~uq~ 
+ ppppppppppxq~nq~aq~vq~Nq~bsq~)sq~pq~pxsq~uq 
+ ppppppppppxq~nq~fq~vq~bxsq~tAND Gate #58sq~uq~q~rpppxpsq~��������pppt AND Gate ##26pq~mq~nq~Cq~nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~^q~aq~nq~nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~>sq~pq~�pxpppt33sq~?@wq~Csq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~Ysq~pq~�pxpppt56sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~fq~�q~bxsq~tAND Gate #56sq~uq~q~�pppxpsq~��������pppt AND Gate ##16pq~mq~�q~Cq~nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~^q~�q~�q~nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~^q~fq~�q~bq~rsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~vsq~pq~�pxpppt55sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~fq~�q~bxsq~tXOR Gate #55sq~uq~q~�pppxpsq~��������pppt XOR Gate ##15pq~mq~�q~rxq~�tCircuit #33sq~uq~q~�q~�q~�q~�q~�sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~�q~fq~bppxpq~�ppppp?�psq~!wq~�q~�sq~�sq~pq~�pxpppt34sq~?@wxsq~tLabel #34 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~nq~bq~rsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~vsq~pq~�pxpppt57sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~nq~aq~�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~nq~fq~�q~bxsq~tXOR Gate #57sq~uq~q~�pppxpsq~��������pppt XOR Gate ##25pq~mq~nq~rxq~�tCircuit #34sq~uq~q~�q~�q~zq~q~jsq)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~nq~�q~^q~rppxpq~�ppppp?�psq~!wq~�q~vsq~�sq~pq~�pxpppt35sq~?@wxsq~tLabel #35 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~pxsq~�sq~!wxsq~pq~	pxq~�q~�q~fq~Nq~bq~�xsq~tOR Gate #59sq~uq~q~bpppxpsq~��������ppptOR Gate ##32pq~mq~^q~Cq~nsq~)sq~pq~pxsq~!wxsq~.sq~pq~pxpppt3sq~?@wxsq~`"t Bit Switch #3sq~uq~q~pppxpsq~ppptBit Switch ##7pq~fq~^q~nq~�sq~)sq~pq~pxsq~!wxsq~.sq~pq~"pxpppt4sq~?@wxsq~$t Bit Switch #4sq~uq~q~pppxpsq~ppptBit Switch ##8pq~fq~^q~�q~rq~�q~bsq~)sq~pq~,pxsq~!wxsq~.sq~pq~/pxpppt5sq~?@wxsq~�"t Bit Switch #5sq~uq~q~,pppxpsq~ppptBit Switch ##2pq~fq~^q~bxsq~<�tCircuit #32sq~uq~q~�q~�q~�q~[sq~)sq~pq~=pxsq~!wxq~^q~,q~$tHpppxpq~Hppppp?�psq~!wq~�q~nq~fsq~�sq~pq~Bpxpppt36sq~?@wxsq~tLabel #36 Text=nullsq~uq~ppppxpsq~(-ppppppq~#xpsq~�sq~!wxsq~pq~Kpxsq~�sq~!wxsq~pq~Npxq~*q~Yq~$q~ZtJsq~)sq~pq~Rpxsq~!wxsq~>sq~pq~Upxpppt35sq~?@wq~Csq~)sq~pq~Ypxsq~uq~ 
+ ppppppppppxsq~Gsq~pq~]pxpppt64sq~?@wq~Nsq~)sq~pq~apxsq~uq~ 
+ ppppppppppxsq~>sq~pq~epxpppt37sq~?@wq~Csq~)sq~pq~ipxsq~uq~ 
+ ppppppppppxsq~Ysq~pq~mpxpppt63sq~?@wq~Nsq~)sq~pq~qpxsq~uq~ 
+ ppppppppppxq~eq~aq~mq~Nq~bsq~)sq~pq~upxsq~uq~ 
+ ppppppppppxq~eq~fq~mq~bxsq~tAND Gate #63sq~uq~q~ipppxpsq~��������pppt AND Gate ##18pq~mq~eq~Cq~nsq~)sq~pq~pxsq~uq~ 
+ ppppppppppxq~Uq~aq~eq~nq~rsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~vsq~pq~�pxpppt62sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~eq~aq~�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~eq~fq~�q~bxsq~tXOR Gate #62sq~uq~q~�pppxpsq~��������pppt XOR Gate ##17pq~mq~eq~rq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~>sq~pq~�pxpppt36sq~?@wq~Csq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~Ysq~pq~�pxpppt61sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~fq~�q~bxsq~tAND Gate #61sq~uq~q~�pppxpsq~��������pppt AND Gate ##14pq~mq~�q~Cq~nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~Uq~�q~�q~nq~rsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~vsq~pq~�pxpppt60sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~aq~�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~fq~�q~bxsq~tXOR Gate #60sq~uq~q~�pppxpsq~��������pppt XOR Gate ##13pq~mq~�q~rq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~Uq~fq~�q~bxq~�tCircuit #36sq~uq~q~�q~�q~�q~�q~�sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~�q~]q~bppxpq~�ppppp?�psq~!wq~�q~�sq~�sq~pq~�pxpppt37sq~?@wxsq~tLabel #37 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~eq~bxq~�tCircuit #37sq~uq~q~�q~�q~qq~uq~asq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~eq~�q~Uq~rppxpq~�ppppp?�psq~!wq~�q~msq~�sq~pq~�pxpppt38sq~?@wxsq~tLabel #38 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~pxq~�q~�q~]q~Nq~bq~�xsq~tOR Gate #64sq~uq~q~Ypppxpsq~��������ppptOR Gate ##31pq~mq~Uq~Cq~nsq~)sq~pq~	pxsq~!wxsq~.sq~pq~pxpppt6sq~?@wxsq~Lt Bit Switch #6sq~uq~q~	pppxpsq~ppptBit Switch ##3pq~fq~Uq~nq~�sq~)sq~pq~pxsq~!wxsq~.sq~pq~pxpppt8sq~?@wxsq~@.t Bit Switch #8sq~uq~q~pppxpsq~ppptBit Switch ##1pq~fq~Uq~�q~rq~�q~bsq~)sq~pq~#pxsq~!wxsq~.sq~pq~&pxpppt7sq~?@wxsq~"t Bit Switch #7sq~uq~q~#pppxpsq~ppptBit Switch ##0pq~fq~Uq~bxsq~(�tCircuit #35sq~uq~q~�q~�q~q~Rsq~)sq~pq~4pxsq~!wxq~Uq~,q~$tGpppxpq~Hppppp?�psq~!wq~�q~eq~]sq~�sq~pq~9pxpppt39sq~?@wxsq~tLabel #39 Text=nullsq~uq~ppppxpsq~(-ppppppq~#xpsq~�sq~!wxsq~pq~Bpxsq~�sq~!wxsq~pq~Epxq~*q~Yq~$q~QtIsq~)sq~pq~Ipxsq~!wxsq~>sq~pq~Lpxpppt38sq~?@wq~Csq~)sq~pq~Ppxsq~uq~ 
+ ppppppppppxsq~Gsq~pq~Tpxpppt69sq~?@wq~Nsq~)sq~pq~Xpxsq~uq~ 
+ ppppppppppxsq~>sq~pq~\pxpppt40sq~?@wq~Csq~)sq~pq~`pxsq~uq~ 
+ ppppppppppxsq~Ysq~pq~dpxpppt68sq~?@wq~Nsq~)sq~pq~hpxsq~uq~ 
+ ppppppppppxq~\q~aq~dq~Nq~bsq~)sq~pq~lpxsq~uq~ 
+ ppppppppppxq~\q~fq~dq~bxsq~tAND Gate #68sq~uq~q~`pppxpsq~��������pppt AND Gate ##20pq~mq~\q~Cq~nsq~)sq~pq~vpxsq~uq~ 
+ ppppppppppxq~Lq~aq~\q~nq~bsq~)sq~pq~zpxsq~uq~ 
+ ppppppppppxsq~>sq~pq~pxpppt39sq?@wq~Csq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~Ysq~pq~�pxpppt66sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~q~aq�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~q~fq�q~bxsq~tAND Gate #66sq~uq~q~�pppxpsq~��������pppt AND Gate ##28pq~mq~q~Cq~nsq)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~Lq~�q~q~nq~bsq)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~Lq~fq~q~bq~rsq)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~vsq~pq~�pxpppt65sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~q~aq�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~q~fq�q~bxsq~tXOR Gate #65sq~uq~q~�pppxpsq~��������pppt XOR Gate ##27pq~mq~q~rxq�tCircuit #39sq~uq~q~�q~�q~�q~�q~zsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~q�q~Tq~bppxpq~�ppppp?�psq~!wq~�q~�sq~�sq~pq~�pxpppt40sq~?@wxsq~tLabel #40 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~\q~bq~rsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~vsq~pq~�pxpppt67sq~?@wq~Nsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~\q~aq~�q~Nq~bsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~\q~fq~�q~bxsq~tXOR Gate #67sq~uq~q~�pppxpsq~��������pppt XOR Gate ##19pq~mq~\q~rxq~�tCircuit #40sq~uq~q~�q~�q~hq~lq~Xsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~\q~�q~Lq~rppxpq~�ppppp?�psq~!wq~�q~dsq~�sq~pq~�pxpppt41sq~?@wxsq~tLabel #41 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~�sq~!wxsq~pq~�pxsq~�sq~!wxsq~pq~�pxq~�q~�q~Tq~Nq~bq~�xsq~tOR Gate #69sq~uq~q~Ppppxpsq~��������ppptOR Gate ##37pq~mq~Lq~Cq~nsq~)sq~pq~pxsq~!wxsq~.sq~pq~pxpppt9sq~?@wxsq~8"t Bit Switch #9sq~uq~q~pppxpsq~ppptBit Switch ##4pq~fq~Lq~nq~�sq~)sq~pq~ pxsq~!wxsq~.sq~pq~pxpppt10sq~?@wxsq~�tBit Switch #10sq~uq~q~ pppxpsq~ppptBit Switch ##9pq~fq~Lq~�q~rq~�q~bsq~)sq~pq~pxsq~!wxsq~.sq~pq~pxpppt11sq~?@wxsq~�tBit Switch #11sq~uq~q~pppxpsq~ppptBit Switch ##10pq~fq~Lq~bxsq~��tCircuit #38sq~uq~q~�q~�q~vq~Isq~)sq~pq~+pxsq~!wxq~Lq~,q~$tFpppxpq~Hppppp?�psq~!wq~q\q~Tsq~�sq~pq~0pxpppt42sq~?@wxsq~tLabel #42 Text=nullsq~uq~ppppxpsq~(-ppppppq~#xpsq~�sq~!wxsq~pq~9pxsq~�sq~!wxsq~pq~<pxq~*q~Yq~$q~Hq~@q~=q~7q~4q~.q~+xsq~��t 24 terminal Circuit #1sq~ uq~q~�q~�q~�q~�q~�q~Uq~Yq~q~ 
+ q~=q~8q~3sq~)sq~pq~Cpxsq~!wxq~$t20sr1org.eclipse.gef.examples.logicdesigner.model.LED1Ibitxq~sq~pq~Hpxpppt0sq~?@wq~Aq~Cxsq~@�tBit Display #0sq~uq~ppppxpsq~/#ppptBit Display ##54pq~Apppppppppppxpsq~-�ppppp?�psq~!wq~?q~q~�q~gsq~�sq~pq~Tpxpppt13sq~?@wxsq~tLabel #13 Text=nullsq~uq~ppppxpsq~(�pppppptRCAxpsq~�sq~!wxsq~pq~^pxsq~�sq~!wxsq~pq~apxt�4 bit RCA: 
+ ​Upper Terminals:Inputs 
+ ​Bottom Terminals:Outputs 
+ ​Bottom Left Corner: Circle Represents pin-1 
+ ​Pin Numbering:Anticlockwise 
+ ​I/P: A0 : 13,A1 : 14,A2 : 15,A3 : 16; B0 : 17,B1 : 18,B2 : 19,B3 : 20; C0 : 21 
+ O/P: S0 : 12,S1 : 11,S2 : 10,S3 : 9,Cout : 8q~_q~^q~Uq~Lq~q~q~q~q~"q~/q~q~&q~q~q~q~sr9org.eclipse.gef.examples.logicdesigner.model.LogicLabelIdLcolorq~�Ltextq~xq~sq~pq~fpxpppt0sq~?@wxsq~tLabel #0 Text=nullsq~uq~ppppxpsq~��������pppppptjatin 0108AI201024q~.q~Hq~/xsrjava.lang.Integer⠤���8Ivaluexrjava.lang.Number������xpsq~�sq~!wxsq~pq~spxsq~�sq~!wxsq~pq~vpx
