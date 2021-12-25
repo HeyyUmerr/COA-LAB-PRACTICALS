@@ -1,0 +1,43 @@
+��sr9org.eclipse.gef.examples.logicdesigner.model.LogicDiagram	ZgridEnabledZrulersVisibilityZsnapToGeometryDzoom[bitst[ILchildrentLjava/util/List;LconnectionRoutertLjava/lang/Integer;L	leftRulert9Lorg/eclipse/gef/examples/logicdesigner/model/LogicRuler;LtopRulerq~xr9org.eclipse.gef.examples.logicdesigner.model.LogicSubpartZVisibilityValueIninInoutZ	resizableZ 
+ selectable[TERMINALS_INt[Ljava/lang/String;[ TERMINALS_OUTq~LhorizontalGuidet9Lorg/eclipse/gef/examples/logicdesigner/model/LogicGuide;LidtLjava/lang/String;LinputstLjava/util/Hashtable;Llocationt#Lorg/eclipse/draw2d/geometry/Point;Lnameq~LoutputstLjava/util/Vector;L 
+ ​pin_configq~Lsizet'Lorg/eclipse/draw2d/geometry/Dimension;[ 
+ stateTablet[[ILstringq~LtempIdq~LtempNameq~L verticalGuideq~xr9org.eclipse.gef.examples.logicdesigner.model.LogicElementZVisibilityValueZ 
+ selectableL	listenerst"Ljava/beans/PropertyChangeSupport;xpsr java.beans.PropertyChangeSupportX��dWH`�I*propertyChangeSupportSerializedDataVersionLchildrenq~	LsourcetLjava/lang/Object;xppq~pxpppt0srjava.util.Hashtable�%!J�F 
+ loadFactorI	thresholdxp?@wxsr!org.eclipse.draw2d.geometry.PointIxIyxpt Logic Diagramsrjava.util.Vectorٗ}[�;�IcapacityIncrementIelementCount[elementDatat[Ljava/lang/Object;xpur[Ljava.lang.Object;��X�s)lxpppppxpsr%org.eclipse.draw2d.geometry.DimensionIheightIwidthxpddppppp?�psrjava.util.ArrayListx����a�Isizexpwsr4org.eclipse.gef.examples.logicdesigner.model.CircuitL 
+ pin_configq~xq~sq~pq~$pxpppt0sq~?@wtEsr1org.eclipse.gef.examples.logicdesigner.model.WireZVisibilityValueIvalueL 
+ bendpointsq~Lsourcet;Lorg/eclipse/gef/examples/logicdesigner/model/LogicSubpart;LsourceTerminalq~Ltargetq~*LtargetTerminalq~xq~sq~pq~+pxsq~!wxsr5org.eclipse.gef.examples.logicdesigner.model.NandGateIresultxr1org.eclipse.gef.examples.logicdesigner.model.Gatexr9org.eclipse.gef.examples.logicdesigner.model.SimpleOutputxq~sq~pq~1pxpppt2sq~?@wtBsq~)sq~pq~6pxsq~!wxsq~.sq~pq~9pxpppt3sq~?@wq~5sq~)sq~pq~=pxsq~!wxsq~.sq~pq~@pxpppt0sq~?@wq~5sq~)sq~pq~Dpxsq~!wxq~$t4q~@q~5tAsq~)sq~pq~Ipxsq~!wxq~$t1q~@q~Hxsq~tNAND Gate #0sq~uq~q~=pppxpsq~ 
+ ​ 
+ pppt NAND Gate ##5ptOUTq~9q~5q~Hsq~)sq~pq~Tpxsq~!wxq~1q~Sq~9q~Hxsq~tNAND Gate #3sq~uq~q~6sq~)sq~pq~[pxsq~!wxq~9q~Sq~$tHppxpq~QppptNAND Gate ##12pq~Sq~1q~5q~Hsq~)sq~pq~`pxsq~!wxsq~.sq~pq~cpxpppt1sq~?@wq~5sq~)sq~pq~gpxsq~!wxsr4org.eclipse.gef.examples.logicdesigner.model.NotGateIresultxr2org.eclipse.gef.examples.logicdesigner.model.Gate2xq~0sq~pq~lpxpppt4sq~?@wq~Hsq~)sq~pq~ppxsq~!wxq~$q~Gq~lq~Hxsq~tNOT Gate #4sq~uq~q~gpppxpq~QppptNOT Gate ##4pq~Sq~cq~5q~Hsq~)sq~pq~xpxsq~!wxq~$q~Lq~cq~Hxsq~tNAND Gate #1sq~uq~q~`pppxpq~QppptNAND Gate ##11pq~Sq~1q~Hxsq~tNAND Gate #2sq~uq~q~Tq~+ppxpq~QppptNAND Gate ##18pq~Sq~$q~(tDsq~)sq~pq~�pxsq~!wxsr6org.eclipse.gef.examples.logicdesigner.model.DipSwitchIbitZstartedxq~sq~pq~�pxpppt0sq~?@wxsq~3�t Bit Switch #0sq~uq~q~�pppxpsq~ppptBit Switch ##0pq~Lq~$q~�q~^q~[q~Hsq~)sq~pq~�pxsq~!wxsr9org.eclipse.gef.examples.logicdesigner.model.BusConnectorIbit[bitsq~xq~sq~pq~�pxpppt0sq~?@wq~Hsq~)sq~pq~�pxsq~!wxsr8org.eclipse.gef.examples.logicdesigner.model.ClockOutputIbitxq~sq~pq~�pxpppt0sq~?@wxsq~Q tClock Input #0 sq~uq~q~�pppxpsq~/#ppptClock Input ##2pq~Lq~�q~Hxsq~�PtBUS #0 Valuesq~uq~sq~)sq~pq~�pxsq~!wxq~�q~Lsq~�sq~pq~�pxpppt1sq~?@wq~Hq~�xsq~�PtBUS #1 Valuesq~uq~sq~)sq~pq~�pxsq~!wxq~�q~Lsq~�sq~pq~�pxpppt2sq~?@wq~Hq~�xsq~�PtBUS #2 Valuesq~uq~sq~)sq~pq~�pxsq~!wxq~�t2sq~#sq~pq~�pxpppt2sq~?@wq~(sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~.sq~pq~�pxpppt12sq~?@wq~5sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~.sq~pq~�pxpppt13sq~?@wq~5sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~.sq~pq~�pxpppt10sq~?@wq~5sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~Gq~�q~5q~Hsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~Lq~�q~Hxsq~t NAND Gate #10sq~uq~q~�pppxpsq~��������pppt NAND Gate ##6pq~Sq~�q~5q~Hsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~Sq~�q~Hxsq~t NAND Gate #13sq~uq~q~�sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~�q~Sq~�q~^ppxpsq~��������ppptNAND Gate ##13pq~Sq~�q~5q~Hsq~)sq~pq~pxsq~uq~ 
+ ppppppppppxsq~.sq~pq~pxpppt11sq~?@wq~5sq~)sq~pq~pxsq~uq~ 
+ ppppppppppxsq~jsq~pq~pxpppt14sq~?@wq~Hsq~)sq~pq~pxsq~uq~ 
+ ppppppppppxq~�q~Gq~q~Hxsq~tNOT Gate #14sq~uq~q~pppxpsq~��������ppptNOT Gate ##7pq~Sq~q~5q~Hsq~)sq~pq~pxsq~uq~ 
+ ppppppppppxq~�q~Lq~q~Hxsq~t NAND Gate #11sq~uq~q~pppxpsq~��������ppptNAND Gate ##14pq~Sq~�q~Hxsq~t NAND Gate #12sq~uq~q~�q~�ppxpsq~��������ppptNAND Gate ##20pq~Sq~�q~(q~�sq~)sq~pq~*pxsq~!wxsq~�sq~pq~-pxpppt2sq~?@wxsq~��t Bit Switch #2sq~uq~q~*pppxpsq~ppptBit Switch ##1pq~Lq~�q~�q~^q~�q~Hq~�xsq~��t 
+ Circuit #2sq~uq~q~�q~�q~q~sq~)sq~pq~;pxsq~!wxq~�t8sr1org.eclipse.gef.examples.logicdesigner.model.LED1Ibitxq~sq~pq~@pxpppt2sq~?@wq~Hq~;xsq~�tBit Display #2sq~uq~ppppxpsq~/#ppptBit Display ##21pq~Hpppxpsq~-2ppppp?�psq~!wq~�q~q~�q~�q~sr7org.eclipse.gef.examples.logicdesigner.model.LogicLabelLcolort Lorg/eclipse/swt/graphics/Color;Ltextq~xq~sq~pq~Npxpppt2sq~?@wxsq~tLabel #2 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsr7org.eclipse.gef.examples.logicdesigner.model.LogicRulerZ 
+ horizontalIunitLguidesq~L	listenersq~xpsq~!wxsq~pq~Xpxsq~Wsq~!wxsq~pq~[pxt�D flip-flop (structural, from SR flipflop): 
+ ​Case analysis: Not required 
+ ​Upper Terminals:Inputs 
+ ​Bottom Terminals:Outputs 
+ ​Bottom Left Corner: Circle Represents pin-1 
+ ​Pin Numbering:Anticlockwise 
+ ​I/P: D : 5, Clk : 8 
+ O/P: Q : 4, Q' : 1q~Hpppxpsq~ppptBUS ##22pur[IM�`&v겥xpq~Hsq~)sq~pq~cpxsq~!wxq~�q~�sq~#sq~pq~fpxpppt1sq~?@wq~(sq~)sq~pq~jpxsq~uq~ 
+ ppppppppppxsq~.sq~pq~npxpppt7sq~?@wq~5sq~)sq~pq~rpxsq~uq~ 
+ ppppppppppxsq~.sq~pq~vpxpppt8sq~?@wq~5sq~)sq~pq~zpxsq~uq~ 
+ ppppppppppxsq~.sq~pq~pxpppt5sq?@wq~5sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~fq~Gq~q~5q~Hsq)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~fq~Lq~q~Hxsq~tNAND Gate #5sq~uq~q~zpppxpsq��������pppt NAND Gate ##9pq~Sq~vq~5q~Hsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~nq~Sq~vq~Hxsq~tNAND Gate #8sq~uq~q~rsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~vq~Sq~fq~^ppxpsq~��������ppptNAND Gate ##16pq~Sq~nq~5q~Hsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~.sq~pq~�pxpppt6sq~?@wq~5sq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxsq~jsq~pq~�pxpppt9sq~?@wq~Hsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~fq~Gq~�q~Hxsq~tNOT Gate #9sq~uq~q~�pppxpsq~��������pppt NOT Gate ##10pq~Sq~�q~5q~Hsq~)sq~pq~�pxsq~uq~ 
+ ppppppppppxq~fq~Lq~�q~Hxsq~tNAND Gate #6sq~uq~q~�pppxpsq~��������ppptNAND Gate ##17pq~Sq~nq~Hxsq~tNAND Gate #7sq~uq~q~�q~jppxpsq~��������ppptNAND Gate ##23pq~Sq~fq~(q~�sq~)sq~pq~�pxsq~!wxsq~�sq~pq~�pxpppt1sq~?@wxsq~��t Bit Switch #1sq~uq~q~�pppxpsq~ppptBit Switch ##3pq~Lq~fq~�q~^q~�q~Hq~cxsq~��t 
+ Circuit #1sq~uq~q~�q~�q~�q~�sq~)sq~pq~�pxsq~!wxq~fq~>sq~?sq~pq~�pxpppt1sq~?@wq~Hq~�xsq~tBit Display #1sq~uq~ppppxpsq~/#ppptBit Display ##24pq~Hpppxpq~Jppppp?�psq~!wq~q�q~nq~vq~�sq~Lsq~pq~�pxpppt1sq~?@wxsq~tLabel #1 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~Wsq~!wxsq~pq~�pxsq~Wsq~!wxsq~pq~�pxq~^q~Hppxpsq~ppptBUS ##15puq~aq~Hq~�ppxpsq~ppptBUS ##8puq~aq~�q~$q~Hxsq~�t 
+ Circuit #0sq~uq~q~pq~Iq~xq~Dsq~)sq~pq~pxsq~!wxq~$q~>sq~?sq~pq~pxpppt0sq~?@wq~Hq~xsq~. tBit Display #0sq~uq~ppppxpsq~/#ppptBit Display ##19pq~Hpppxpq~Jppppp?�psq~!wq~@q~cq~1q~9q~lsq~Lsq~pq~pxpppt0sq~?@wxsq~tLabel #0 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~Wsq~!wxsq~pq~pxsq~Wsq~!wxsq~pq~pxq~^q~fq~�q~�q~�q~�q~�q~q~�q~@q~�q~�q~-sr9org.eclipse.gef.examples.logicdesigner.model.LogicLabelIdLcolorq~MLtextq~xq~sq~pq~pxpppt0sq~?@wxsq~tLabel #0 Text=nullsq~uq~ppppxpsq~��������pppppptjatin 0108AI201024xsrjava.lang.Integer⠤���8Ivaluexrjava.lang.Number������xpsq~Wsq~!wxsq~pq~+pxsq~Wsq~!wxsq~pq~.px
