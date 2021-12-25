@@ -1,0 +1,54 @@
+��sr9org.eclipse.gef.examples.logicdesigner.model.LogicDiagram	ZgridEnabledZrulersVisibilityZsnapToGeometryDzoom[bitst[ILchildrentLjava/util/List;LconnectionRoutertLjava/lang/Integer;L	leftRulert9Lorg/eclipse/gef/examples/logicdesigner/model/LogicRuler;LtopRulerq~xr9org.eclipse.gef.examples.logicdesigner.model.LogicSubpartZVisibilityValueIninInoutZ	resizableZ 
+ selectable[TERMINALS_INt[Ljava/lang/String;[ TERMINALS_OUTq~LhorizontalGuidet9Lorg/eclipse/gef/examples/logicdesigner/model/LogicGuide;LidtLjava/lang/String;LinputstLjava/util/Hashtable;Llocationt#Lorg/eclipse/draw2d/geometry/Point;Lnameq~LoutputstLjava/util/Vector;L 
+ ​pin_configq~Lsizet'Lorg/eclipse/draw2d/geometry/Dimension;[ 
+ stateTablet[[ILstringq~LtempIdq~LtempNameq~L verticalGuideq~xr9org.eclipse.gef.examples.logicdesigner.model.LogicElementZVisibilityValueZ 
+ selectableL	listenerst"Ljava/beans/PropertyChangeSupport;xpsr java.beans.PropertyChangeSupportX��dWH`�I*propertyChangeSupportSerializedDataVersionLchildrenq~	LsourcetLjava/lang/Object;xppq~pxpppt0srjava.util.Hashtable�%!J�F 
+ loadFactorI	thresholdxp?@wxsr!org.eclipse.draw2d.geometry.PointIxIyxpt Logic Diagramsrjava.util.Vectorٗ}[�;�IcapacityIncrementIelementCount[elementDatat[Ljava/lang/Object;xpur[Ljava.lang.Object;��X�s)lxpppppxpsr%org.eclipse.draw2d.geometry.DimensionIheightIwidthxpddppppp?�psrjava.util.ArrayListx����a�Isizexpwsr4org.eclipse.gef.examples.logicdesigner.model.CircuitL 
+ pin_configq~xq~sq~pq~$pxpppt0sq~?@wtEsr1org.eclipse.gef.examples.logicdesigner.model.WireZVisibilityValueIvalueL 
+ bendpointsq~Lsourcet;Lorg/eclipse/gef/examples/logicdesigner/model/LogicSubpart;LsourceTerminalq~Ltargetq~*LtargetTerminalq~xq~sq~pq~+pxsq~!wxsr4org.eclipse.gef.examples.logicdesigner.model.AndGateIresultxr1org.eclipse.gef.examples.logicdesigner.model.Gatexr9org.eclipse.gef.examples.logicdesigner.model.SimpleOutputxq~sq~pq~1pxpppt0sq~?@wtBsq~)sq~pq~6pxsq~!wxq~$t4q~1q~5tAsq~)sq~pq~;pxsq~!wxq~$t1q~1q~:xsq~tAND Gate #0sq~uq~q~+pppxpsq~ 
+ ​ 
+ pppt AND Gate ##12ptOUTq~$q~(tDsq~)sq~pq~Gpxsq~!wxsr0org.eclipse.gef.examples.logicdesigner.model.LEDxq~sq~pq~Kpxpppt1sq~?@wq~Fsq~)sq~pq~Opxsq~!wxsr6org.eclipse.gef.examples.logicdesigner.model.DipSwitchIbitZstartedxq~sq~pq~Spxpppt4sq~?@wxsq~:t Bit Switch #4sq~uq~q~Opppxpsq~ppptBit Switch ##1pq~>q~Kq~FtCsq~)sq~pq~^pxsq~!wxsq~Rsq~pq~apxpppt5sq~?@wxsq~28t Bit Switch #5sq~uq~q~^pppxpsq~ppptBit Switch ##3pq~>q~Kq~]q~5sq~)sq~pq~kpxsq~!wxsq~Rsq~pq~npxpppt6sq~?@wxsq~T9t Bit Switch #6sq~uq~q~kpppxpsq~ppptBit Switch ##2pq~>q~Kq~5q~:sq~)sq~pq~xpxsq~!wxsq~Rsq~pq~{pxpppt7sq~?@wxsq~t:t Bit Switch #7sq~uq~q~xpppxpsq~ppptBit Switch ##0pq~>q~Kq~:xsq~8�tLED #1 sq~uq~sq~)sq~pq~�pxsq~!wxq~Kq~9sq~#sq~pq~�pxpppt10sq~?@wq~(sq~)sq~pq~�pxsq~!wxsr3org.eclipse.gef.examples.logicdesigner.model.OrGateIresultxq~/sq~pq~�pxpppt18sq~?@wq~5sq~)sq~pq~�pxsq~!wxsq~#sq~pq~�pxpppt9sq~?@wq~(sq~)sq~pq~�pxsq~!wxsq~.sq~pq~�pxpppt16sq~?@wq~5sq~)sq~pq~�pxsq~!wxq~�q~9q~�q~5q~:sq~)sq~pq~�pxsq~!wxq~�q~>q~�q~:xsq~tAND Gate #16sq~uq~q~�pppxpsq~ 
+ ​ 
+ pppt AND Gate ##28pq~Eq~�q~(q~Fsq~)sq~pq~�pxsq~!wxq~�q~9q~�q~FtHsq~)sq~pq~�pxsq~!wxsr4org.eclipse.gef.examples.logicdesigner.model.XORGateIresultxq~/sq~pq~�pxpppt17sq~?@wq~5sq~)sq~pq~�pxsq~!wxq~�q~9q~�q~5q~:sq~)sq~pq~�pxsq~!wxq~�q~>q~�q~:xsq~tXOR Gate #17sq~uq~q~�pppxpq~�pppt XOR Gate ##29pq~Eq~�q~�q~:sq~)sq~pq~�pxsq~!wxsq~#sq~pq~�pxpppt8sq~?@wq~(sq~)sq~pq~�pxsq~!wxsq~.sq~pq~�pxpppt14sq~?@wq~5sq~)sq~pq~�pxsq~!wxq~�q~9q~�q~5q~:sq~)sq~pq~�pxsq~!wxq~�q~>q~�q~:xsq~tAND Gate #14sq~uq~q~�pppxpsq~ 
+ ​ 
+ pppt AND Gate ##18pq~Eq~�q~(q~Fsq~)sq~pq~�pxsq~!wxq~�t3q~�q~Fq~�sq~)sq~pq~�pxsq~!wxsq~�sq~pq~�pxpppt15sq~?@wq~5sq~)sq~pq~�pxsq~!wxq~�q~9q~�q~5q~:sq~)sq~pq~�pxsq~!wxq~�q~>q~�q~:xsq~tXOR Gate #15sq~uq~q~�pppxpq~�pppt XOR Gate ##19pq~Eq~�q~�q~:sq~)sq~pq~�pxsq~!wxq~�q~>q~�q~:xsq~t 
+ Circuit #8sq~uq~q~�q~�q~�q~�q~�sq~)sq~pq~pxsq~!wxq~�t5q~�q~:ppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~�q~�sr7org.eclipse.gef.examples.logicdesigner.model.LogicLabelLcolort Lorg/eclipse/swt/graphics/Color;Ltextq~xq~sq~pq~pxpppt9sq~?@wxsq~tLabel #9 Text=nullsq~uq~ppppxpsq~(-pppppptH/Axpsr7org.eclipse.gef.examples.logicdesigner.model.LogicRulerZ 
+ horizontalIunitLguidesq~L	listenersq~xpsq~!wxsq~pq~pxsq~sq~!wxsq~pq~pxt�Half Adder: 
+ ​Upper Terminals:Inputs 
+ ​Bottom Terminals:Outputs 
+ ​Bottom Left Corner: Circle Represents pin-1 
+ ​Pin Numbering:Anticlockwise 
+ ​I/P: 5,8 
+ ​O/P: sum : 4, carry : 1t8q~�q~:xq~�t 
+ Circuit #9sq~uq~q~�q~�q~�q~�q~�sq~)sq~pq~pxsq~!wxq~�q~q~�q~�ppxpq~ppppp?�psq~!wq~�q~�sq~sq~pq~"pxpppt10sq~?@wxsq~tLabel #10 Text=nullsq~uq~ppppxpsq~(-ppppppq~xpsq~sq~!wxsq~pq~+pxsq~sq~!wxsq~pq~.pxq~q~q~�q~5q~:q~xsq~tOR Gate #18sq~uq~q~�pppxpq~ppptOR Gate ##27pq~Eq~�q~(q~Fsq~)sq~pq~6pxsq~!wxsq~#sq~pq~9pxpppt7sq~?@wq~(sq~)sq~pq~=pxsq~!wxsq~�sq~pq~@pxpppt13sq~?@wq~5sq~)sq~pq~Dpxsq~!wxsq~#sq~pq~Gpxpppt6sq~?@wq~(sq~)sq~pq~Kpxsq~!wxsq~.sq~pq~Npxpppt11sq~?@wq~5sq~)sq~pq~Rpxsq~!wxq~Gq~9q~Nq~5q~:sq~)sq~pq~Upxsq~!wxq~Gq~>q~Nq~:xsq~tAND Gate #11sq~uq~q~Kpppxpsq~ 
+ ​ 
+ pppt AND Gate ##25pq~Eq~Gq~(q~Fsq~)sq~pq~^pxsq~!wxq~9q~9q~Gq~Fq~�sq~)sq~pq~apxsq~!wxsq~�sq~pq~dpxpppt12sq~?@wq~5sq~)sq~pq~hpxsq~!wxq~Gq~9q~dq~5q~:sq~)sq~pq~kpxsq~!wxq~Gq~>q~dq~:xsq~tXOR Gate #12sq~uq~q~apppxpq~\pppt XOR Gate ##26pq~Eq~Gq~�q~:sq~)sq~pq~spxsq~!wxsq~#sq~pq~vpxpppt5sq~?@wq~(sq~)sq~pq~zpxsq~!wxsq~.sq~pq~}pxpppt9sq~?@wq~5sq~)sq~pq~�pxsq~!wxq~vq~9q~}q~5q~:sq~)sq~pq~�pxsq~!wxq~vq~>q~}q~:xsq~tAND Gate #9sq~uq~q~zpppxpsq~ 
+ ​ 
+ pppt AND Gate ##16pq~Eq~vq~(q~Fsq~)sq~pq~�pxsq~!wxq~9q~�q~vq~Fq~�sq~)sq~pq~�pxsq~!wxsq~�sq~pq~�pxpppt10sq~?@wq~5sq~)sq~pq~�pxsq~!wxq~vq~9q~�q~5q~:sq~)sq~pq~�pxsq~!wxq~vq~>q~�q~:xsq~tXOR Gate #10sq~uq~q~�pppxpq~�pppt XOR Gate ##17pq~Eq~vq~�q~:sq~)sq~pq~�pxsq~!wxq~9q~>q~vq~:xsq~t 
+ Circuit #5sq~uq~q~�q~�q~�q~�q~ssq~)sq~pq~�pxsq~!wxq~vq~q~@q~:ppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~�q~}sq~sq~pq~�pxpppt6sq~?@wxsq~tLabel #6 Text=nullsq~uq~ppppxpsq~(-ppppppq~xpsq~sq~!wxsq~pq~�pxsq~sq~!wxsq~pq~�pxq~q~q~Gq~:xq~�t 
+ Circuit #6sq~uq~q~Uq~Rq~kq~hq~Dsq~)sq~pq~�pxsq~!wxq~Gq~q~9q~�ppxpq~�ppppp?�psq~!wq~dq~Nsq~sq~pq~�pxpppt7sq~?@wxsq~tLabel #7 Text=nullsq~uq~ppppxpsq~(-ppppppq~xpsq~sq~!wxsq~pq~�pxsq~sq~!wxsq~pq~�pxq~q~q~@q~5q~:q~�xsq~tOR Gate #13sq~uq~q~=pppxpq~�ppptOR Gate ##24pq~Eq~9q~(q~Fsq~)sq~pq~�pxsq~!wxsq~#sq~pq~�pxpppt4sq~?@wq~(sq~)sq~pq~�pxsq~!wxsq~�sq~pq~�pxpppt8sq~?@wq~5sq~)sq~pq~�pxsq~!wxsq~#sq~pq~�pxpppt3sq~?@wq~(sq~)sq~pq~�pxsq~!wxsq~.sq~pq~�pxpppt6sq~?@wq~5sq~)sq~pq~�pxsq~!wxq~�q~9q~�q~5q~:sq~)sq~pq~�pxsq~!wxq~�q~>q~�q~:xsq~tAND Gate #6sq~uq~q~�pppxpsq~ 
+ ​ 
+ pppt AND Gate ##20pq~Eq~�q~(q~Fsq~)sq~pq~pxsq~!wxq~�q~9q~�q~Fq~�sq~)sq~pq~pxsq~!wxsq~�sq~pq~pxpppt7sq~?@wq~5sq~)sq~pq~ 
+ pxsq~!wxq~�q~9q~q~5q~:sq~)sq~pq~ pxsq~!wxq~�q~>q~q~:xsq~tXOR Gate #7sq~uq~q~pppxpq~�pppt XOR Gate ##21pq~Eq~�q~�q~:sq~)sq~pq~pxsq~!wxsq~#sq~pq~pxpppt2sq~?@wq~(sq~)sq~pq~pxsq~!wxsq~.sq~pq~pxpppt4sq~?@wq~5sq~)sq~pq~#pxsq~!wxq~q~9q~q~5q~:sq~)sq~pq~&pxsq~!wxq~q~>q~q~:xsq~tAND Gate #4sq~uq~q~pppxpsq~ 
+ ​ 
+ pppt AND Gate ##14pq~Eq~q~(q~Fsq~)sq~pq~/pxsq~!wxq~�q~�q~q~Fq~�sq~)sq~pq~2pxsq~!wxsq~�sq~pq~5pxpppt5sq~?@wq~5sq~)sq~pq~9pxsq~!wxq~q~9q~5q~5q~:sq~)sq~pq~<pxsq~!wxq~q~>q~5q~:xsq~tXOR Gate #5sq~uq~q~2pppxpq~-pppt XOR Gate ##15pq~Eq~q~�q~:sq~)sq~pq~Dpxsq~!wxq~�q~>q~q~:xsq~t 
+ Circuit #2sq~uq~q~&q~#q~<q~9q~sq~)sq~pq~Kpxsq~!wxq~q~q~�q~:ppxpsq~ 
+ ​ 
+ ppppp?�psq~!wq~5q~sq~sq~pq~Ppxpppt3sq~?@wxsq~tLabel #3 Text=nullsq~uq~ppppxpsq~(-ppppppq~xpsq~sq~!wxsq~pq~Ypxsq~sq~!wxsq~pq~\pxq~q~q~�q~:xq~Gt 
+ Circuit #3sq~uq~q~�q~�q~ q~ 
+ q~�sq~)sq~pq~bpxsq~!wxq~�q~q~�q~�ppxpq~Nppppp?�psq~!wq~q~�sq~sq~pq~fpxpppt4sq~?@wxsq~tLabel #4 Text=nullsq~uq~ppppxpsq~(-ppppppq~xpsq~sq~!wxsq~pq~opxsq~sq~!wxsq~pq~rpxq~q~q~�q~5q~:q~Kxsq~t 
+ OR Gate #8sq~uq~q~�pppxpq~NppptOR Gate ##23pq~Eq~�q~(q~Fsq~)sq~pq~zpxsq~!wxq~$q~q~�q~Fq~]sq~)sq~pq~}pxsq~!wxq~Kt2q~�q~]q~�q~bq~:sq~)sq~pq~�pxsq~!wxsq~Jsq~pq~�pxpppt3sq~?@wq~Fsq~)sq~pq~�pxsq~!wxsq~Rsq~pq~�pxpppt0sq~?@wxsq~C5t Bit Switch #0sq~uq~q~�pppxpsq~ppptBit Switch ##4pq~>q~�q~Fq~]sq~)sq~pq~�pxsq~!wxsq~Rsq~pq~�pxpppt1sq~?@wxsq~_.t Bit Switch #1sq~uq~q~�pppxpsq~ppptBit Switch ##8pq~>q~�q~]q~5sq~)sq~pq~�pxsq~!wxsq~Rsq~pq~�pxpppt2sq~?@wxsq~�.t Bit Switch #2sq~uq~q~�pppxpsq~ppptBit Switch ##5pq~>q~�q~5q~:sq~)sq~pq~�pxsq~!wxsq~Rsq~pq~�pxpppt3sq~?@wxsq~�5t Bit Switch #3sq~uq~q~�pppxpsq~ppptBit Switch ##7pq~>q~�q~:xsq~`^tLED #3 sq~uq~sq~)sq~pq~�pxsq~!wxq~�q~9q~�q~:sq~)sq~pq~�pxsq~!wxq~�q~�q~9q~:q~�sq~)sq~pq~�pxsq~!wxq~�q~>q~$q~:xpsq~/=ppptLED ##10pq~�q~�q~:xsq~,ft 
+ Circuit #4sq~uq~q~Dq~/q~sq~)sq~pq~�pxsq~!wxq~�q~sq~Jsq~pq~�pxpppt0sq~?@wq~Fsq~)sq~pq~�pxsq~!wxq~�q~q~�q~Fq~]sq~)sq~pq~�pxsq~!wxq~9q~q~�q~]q~5q~�q~:sq~)sq~pq~�pxsq~!wxq~$q~q~�q~:xsq~��tLED #0 sq~uq~ppppxpsq~/=ppptLED ##22pq~5q~�pppxpsq~-2ppppp?�psq~!wq~q~�q~�sq~sq~pq~�pxpppt2sq~?@wxsq~tLabel #2 Text=nullsq~uq~ppppxpsq~(-pppppptF/Axpsq~sq~!wxsq~pq~�pxsq~sq~!wxsq~pq~�pxt�Full-Adder(Using Two Half-Adders): 
+ ​Upper Terminals:Inputs 
+ ​Bottom Terminals:Outputs 
+ ​Bottom Left Corner: Circle Represents pin-1 
+ ​Pin Numbering:Anticlockwise 
+ ​I/P: 5,6,8 
+ O/P: sum : 4, carry : 1q~q~9q~Fq~]sq~)sq~pq~�pxsq~!wxq~Kq~�q~9q~]q~�q~�q~:q~�xsq~��t 
+ Circuit #7sq~uq~q~�q~�q~^q~�q~6pppxpsq~-2ppppp?�psq~!wq~vq~Gq~@sq~sq~pq~pxpppt5sq~?@wxsq~tLabel #5 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~sq~!wxsq~pq~ 
+ pxsq~sq~!wxsq~pq~ pxq~�q~q~�q~Fq~]q~�q~�q~q~:q~�xsq~1mtCircuit #10sq~uq~q~�q~�q~�q~�sq~)sq~pq~pxsq~!wxq~�q~sr1org.eclipse.gef.examples.logicdesigner.model.LED1Ibitxq~sq~pq~pxpppt0sq~?@wq~:q~xsq~HztBit Display #0sq~uq~ppppxpsq~/#ppptBit Display ##30pq~:pppxpsq~-2ppppp?�psq~!wq~�q~�q~�sq~sq~pq~$pxpppt8sq~?@wxsq~tLabel #8 Text=nullsq~uq~ppppxpsq~(-ppppppq~�xpsq~sq~!wxsq~pq~-pxsq~sq~!wxsq~pq~0pxq~�q~]q~}q~�q~Gxpsq~/=ppptLED ##9pq~>q~$q~Fq~�sq~)sq~pq~5pxsq~!wxsq~�sq~pq~8pxpppt1sq~?@wq~5sq~)sq~pq~<pxsq~!wxq~$q~9q~8q~5q~:sq~)sq~pq~?pxsq~!wxq~$q~>q~8q~:xsq~tXOR Gate #1sq~uq~q~5pppxpq~Cpppt XOR Gate ##13pq~Eq~$q~�q~:q~�xsq~�ft 
+ Circuit #0sq~uq~q~;q~6q~?q~<q~�q~zppxpsq~-2ppppp?�psq~!wq~8q~1sq~sq~pq~Mpxpppt0sq~?@wxsq~tLabel #0 Text=nullsq~uq~ppppxpsq~(-ppppppq~xpsq~sq~!wxsq~pq~Vpxsq~sq~!wxsq~pq~Ypxq~q~�q~9q~�q~�q~Kq~q~�q~�q~�q~�q~�q~Sq~aq~nq~{sr8org.eclipse.gef.examples.logicdesigner.model.ClockOutputIbitxq~sq~pq~]pxpppt1sq~?@wxsq~::tClock Input #1 sq~uq~sq~)sq~pq~epxsq~!wxq~]q~>sq~sq~pq~hpxpppt1sq~?@wq~:q~exsq~�htBit Display #1sq~uq~ppppxpsq~/#ppptBit Display ##11pq~:pppxpsq~/#ppptClock Input ##6pq~hsr9org.eclipse.gef.examples.logicdesigner.model.LogicLabelIdLcolorq~Ltextq~xq~sq~pq~upxpppt0sq~?@wxsq~tLabel #0 Text=nullsq~uq~ppppxpsq~��������pppppptJatin Kshatriya 0108AI201024xsrjava.lang.Integer⠤���8Ivaluexrjava.lang.Number������xpsq~sq~!wxsq~pq~�pxsq~sq~!wxsq~pq~�px
